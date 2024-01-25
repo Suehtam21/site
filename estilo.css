@@ -1,8 +1,21 @@
 body {
     background-color:#9966FF;
-    font-family: calibri; color: #ca5f5f;
+    font-family: calibri; color: bisque;
     font-size: 18px;
 }
 header{
-    background-color:#FFCC66
+    background-color:#f0b943
+}
+header a{ 
+    color: black;
+    text-decoration: none;
+}
+article a{
+    background-color: rgb(229, 229, 233);
+    color: darkred;
+    text-decoration: none;
+}
+footer{
+    background-color: #f0b943;
+    color: aliceblue;
 }
