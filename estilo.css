@@ -1,21 +1,39 @@
 body {
-    background-color:#9966FF;
+    background-color:#8c63ce;
     font-family: calibri; color: bisque;
     font-size: 18px;
+    margin: 0px;
 }
-header{
-    background-color:#f0b943
+
+.topo {
+    background-color:#5f5c54;
+    padding: 30px;
+    text-align: center;
+
 }
-header a{ 
+
+.topo a { 
     color: black;
     text-decoration: none;
 }
-article a{
+
+article {
+    background-color: rgb(110, 115, 119);
+}
+
+article a {
     background-color: rgb(229, 229, 233);
     color: darkred;
     text-decoration: none;
+    padding: 1%;
 }
-footer{
-    background-color: #f0b943;
+
+footer {
+    background-color: #5f5c54;
     color: aliceblue;
+    padding: 30px;
 }
+main {
+    padding: 30px;
+}
+
