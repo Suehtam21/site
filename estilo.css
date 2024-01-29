@@ -17,17 +17,27 @@ body {
     text-decoration: none;
 }
 
-article {
+.materia {
     background-color: rgb(110, 115, 119);
 }
 
-article a {
+.botao {
     background-color: rgb(229, 229, 233);
     color: darkred;
     text-decoration: none;
-    padding: 1%;
+    padding: 0,8%;
 }
-
+.menu {
+    display: flex;
+    list-style: none;
+    margin-left: auto;
+}
+.menu li {
+    padding-right: 20px;
+}
+.menu a:hover {
+    color: #5f5c54;
+}git :-moz-loading
 footer {
     background-color: #5f5c54;
     color: aliceblue;
@@ -36,4 +46,9 @@ footer {
 main {
     padding: 30px;
 }
+.navegacao {
+    display: flex;
+    list-style: none;
+}
+
 
