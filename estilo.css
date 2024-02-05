@@ -120,3 +120,6 @@ textarea.campo{
     background-color: rgb(255, 94, 0);
     outline: none;
 }
+.mapa {
+    width: 100%;
+}
