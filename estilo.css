@@ -84,6 +84,15 @@ footer {
     padding: 30px;
     text-align: center;
 }
+@media (min-width: 768px) {
+    .cabecalho a {
+        font-size: 18px;
+    }
+
+    .materia h1 {
+        font-size: 30px;
+    }
+}
 main {
     padding: 30px;
 }
